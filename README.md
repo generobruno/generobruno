@@ -10,7 +10,7 @@ Welcome to my Github page! I am Bruno and I am currently finishing my Computer E
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Degree  
-- Taking online courses about Data Science and Machine Learning
+- Taking online courses about Data Science, Machine Learning and CyberSecurity
 
 #### :muscle: Things I am challenging myself with:
 - Exercising 3 days a week
