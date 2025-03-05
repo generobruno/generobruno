@@ -6,14 +6,14 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:generobruno@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/brunogenero)
 
-Welcome to my Github page! I am Bruno and I am currently finishing my Computer Engineering degree at the university of Córdoba! 
+Welcome to my Github page! I am Bruno and I've just finished my Computer Engineering degree at the university of Córdoba and i am looking to learn and advance my career! 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Degree  
-- Taking online courses about Data Science, Machine Learning and CyberSecurity
+- Learning and taking courses about Mechatronics and Robotics
+- Taking online courses about Data Science and Machine Learning
 
 #### :muscle: Things I am challenging myself with:
-- Exercising 3 days a week
+- Exercising 3 to 5 days a week
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
