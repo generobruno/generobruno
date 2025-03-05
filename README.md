@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:generobruno@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/brunogenero)
 
-Welcome to my Github page! I am Bruno and I've just finished my Computer Engineering degree at the university of Córdoba and i am looking to learn and advance my career! 
+Welcome to my Github page! I am Bruno and I've just finished my Computer Engineering degree at the university of Córdoba and I am looking forward to learn more and advance my career! 
 
 #### 🌱 Things I am currently working on: 
 - Learning and taking courses about Mechatronics and Robotics
