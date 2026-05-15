@@ -1,32 +1,37 @@
-### Hi there 👋 
-### This is Bruno Genero!
+<h1>Bruno Genero</h1>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/generobruno)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/generobruno)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:generobruno@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/generobruno)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/generobruno)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:generobruno@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/brunogenero)
 
-Welcome to my Github page! I am Bruno and I've just finished my Computer Engineering degree at the university of Córdoba and I am looking forward to learn more and advance my career! 
+**Computer Engineer** based in Córdoba, Argentina 🇦🇷
 
-#### 🌱 Things I am currently working on: 
-- Learning and taking courses about Mechatronics and Robotics
-- Taking online courses about Data Science and Machine Learning
+Recently graduated and diving deep into robotics, mechatronics, and machine learning. I build things, break things, and try to understand why they broke.
 
-#### :muscle: Things I am challenging myself with:
-- Exercising 3 to 5 days a week
-- Improving my CV with some education apart from university
+---
 
-#### :computer: Programming languages and tools: 
-<p>
-<code><img width="5%" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<br />
-<code><img width="5%" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<br />
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-</p>
+### 🔭 Currently working on
+
+- 🤖 Taking courses on **Mechatronics & Robotics** — control systems, embedded engineering
+- 🧠 Building a **Data Science & ML** foundation through projects and online courses
+- 💪 Training 3–5 days a week — discipline transfers to everything
+
+---
+
+### 🛠 Tech stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Tools & environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
