@@ -18,8 +18,6 @@ Welcome to my Github page! I am Bruno and I've just finished my Computer Enginee
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=generobruno&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
-
 <code><img width="5%" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
